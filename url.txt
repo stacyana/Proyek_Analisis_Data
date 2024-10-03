@@ -1,0 +1,7 @@
+url streamlit
+
+https://airquality-stacyana.streamlit.app/
+
+url github
+
+https://github.com/stacyana/Proyek_Analisis_data.git
